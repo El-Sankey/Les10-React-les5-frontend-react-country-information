@@ -1,0 +1,15 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=WebStorm
+###
+
+# landen vlagen.
+GET https://restcountries.com/v3.1/all?fields=name,flags
+###
+
+# landen namen.
+GET https://restcountries.com/v3.1/name/{name}?fullText=true
+###
+
+# aantal inwoners
+#GET

@@ -27,7 +27,7 @@ npm run dev
 ```
 
 Open http://localhost:5173/ om de pagina in de browser te bekijken. Begin met het maken van wijzigingen
-in `src/App.jsx`.
+in `src/App.js`.
 
 ## Opdracht 1
 
